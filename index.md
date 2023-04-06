@@ -19,6 +19,12 @@
 
 ## **About me**
 
+[Name](#thinh-g-vo)
+
+[Major](#computer-engineer-undergradute)
+
+[Way of contact](#contact-email-tgvoucsdedu)
+
 I discovered programming very late, but I have had a fascination with computer since I was four years old. 
 
 As of my history being a programmer, I have never done an actual project ever in my life. However, I have done some interesting small codes in the past.
