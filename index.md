@@ -54,4 +54,4 @@ Thanks for reading my little introduction. Here is a picture of a potato.🙂
 
 [Potato](screenshots/Potato_Battery_Main.jpg)
 
-[^1]: My friends and I had a funtime playing this.
+[^1]: My friends and I had a funtime playing this. 100% would recommend.
