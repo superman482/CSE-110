@@ -50,8 +50,6 @@ This quote reminds me to keeps being a better person than who I was yesterday.
 
 One of the most interesting website I found online is a website called **[PeterAnswer](https://www.peteranswers.com/)**. Just like the name suggest, you can ask Peter any questions on the website, the answers are pretty interesting.
 
-Thanks for reading my little introduction. Here is a picture of a potato.🙂
-
-[Potato](screenshots/Potato_Battery_Main.jpg)
+Thanks for reading my little introduction. Here is a picture of a potato.🙂  [Potato](screenshots/Potato_Battery_Main.jpg)
 
 [^1]: My friends and I had a funtime playing this. 100% would recommend.
