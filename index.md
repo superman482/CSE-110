@@ -1,4 +1,14 @@
-![Picture of myself](screenshots/319783945_1009285917127620_8951516267525572160_n.jpg)
+**TABLE OF CONTENTS**
+
+[Name](#thinh-g-vo)
+
+[Picture of me for reference](#picture-of-myself)
+
+[Way of contact](#contact-email-tgvoucsdedu)
+
+[About Me](#about-me)
+
+# ![Picture of myself](screenshots/319783945_1009285917127620_8951516267525572160_n.jpg)
 
 # **Thinh G. Vo**
 
@@ -7,12 +17,6 @@
 ### - Contact email: ***tgvo@ucsd.edu***
 
 ## **About me**
-
-[Name](#thinh-g-vo)
-
-[Major](#computer-engineer-undergradute)
-
-[Way of contact](#contact-email-tgvoucsdedu)
 
 I discovered programming very late, but I have had a fascination with computer since I was four years old. 
 
