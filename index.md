@@ -1,14 +1,3 @@
-- [x] Pictures
-- [x] Headings
-- [x] Styling text
-- [x] Quoting text
-- [x] Quoting code
-- [x] External Links
-- [x] Section links
-- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-- [x] Ordered and Unordered Lists
-- [x] Task lists
-
 ![Picture of myself](screenshots/319783945_1009285917127620_8951516267525572160_n.jpg)
 
 # **Thinh G. Vo**
@@ -59,3 +48,16 @@ One of the most interesting website I found online is a website called **[PeterA
 Thanks for reading my little introduction. Here is a picture of a potato.🙂  [Potato](screenshots/Potato_Battery_Main.jpg)
 
 [^1]: My friends and I had a funtime playing this. 100% would recommend.
+
+Lists of things to include in this index file:
+
+- [x] Pictures
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
+- [x] Task lists
