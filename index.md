@@ -1,12 +1,12 @@
 **TABLE OF CONTENTS**
 
-[Name](#thinh-g-vo)
+1. [Name](#thinh-g-vo)
 
-[Picture of myself](#picture-of-myself)
+2. [Picture of myself](#picture-of-myself)
 
-[Contact email](#contact-email-tgvoucsdedu)
+3. [Contact email](#contact-email-tgvoucsdedu)
 
-[About Me](#about-me)
+4. [About Me](#about-me)
 
 # ![Picture of myself](screenshots/319783945_1009285917127620_8951516267525572160_n.jpg)
 
