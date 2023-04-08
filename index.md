@@ -12,9 +12,9 @@
 
 # **Thinh G. Vo**
 
-### - Computer Engineer Undergradute
+### Computer Engineer Undergradute
 
-### - Contact email: ***tgvo@ucsd.edu***
+### Contact email: ***tgvo@ucsd.edu***
 
 ## **About me**
 
