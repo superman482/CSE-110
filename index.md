@@ -2,9 +2,9 @@
 
 [Name](#thinh-g-vo)
 
-[Picture of me for reference](#picture-of-myself)
+[Picture of myself](#picture-of-myself)
 
-[Way of contact](#contact-email-tgvoucsdedu)
+[Contact email](#contact-email-tgvoucsdedu)
 
 [About Me](#about-me)
 
