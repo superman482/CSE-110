@@ -4,7 +4,7 @@
 
 [Picture of me for reference](#picture-of-myself)
 
-[Way of contact](#)
+[Way of contact](#contact-email-tgvoucsdedu)
 
 [About Me](#about-me)
 
