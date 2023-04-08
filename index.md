@@ -1,12 +1,8 @@
 **TABLE OF CONTENTS**
 
-1. [Name](#thinh-g-vo)
-
-2. [Picture of myself](#picture-of-myself)
-
-3. [Contact email](#contact-email-tgvoucsdedu)
-
-4. [About Me](#about-me)
+1. [My Name](#thinh-g-vo)
+2. [Contact Email](#contact-email-tgvoucsdedu)
+3. [My Introduction](#about-me)
 
 # ![Picture of myself](screenshots/319783945_1009285917127620_8951516267525572160_n.jpg)
 
